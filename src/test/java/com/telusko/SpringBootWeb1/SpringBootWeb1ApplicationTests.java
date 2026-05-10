@@ -9,5 +9,9 @@ class SpringBootWeb1ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+@Test
+void testingGit()
+{
+	
+}
 }
